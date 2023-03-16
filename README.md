@@ -10,7 +10,10 @@
 ![hedwig3798's GitHub stats](https://github-readme-stats.vercel.app/api?username=hedwig3798&show_icons=true&theme=radical)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hedwig3798&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
   ---
-# My tect stack
+  # BOJ Rank!
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hedwig3798)](https://solved.ac/hedwig3798/)
+  ---
+  # My tect stack
   ### language and platform
   ![c++](https://img.shields.io/badge/-C%2B%2B-%2300599C?style=flat-square&logo=c%2B%2B)
   ![c](https://img.shields.io/badge/-C-black?style=flat-square&logo=c&logoColor=white)
