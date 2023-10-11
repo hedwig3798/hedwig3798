@@ -24,7 +24,7 @@
   ![Pycharm](https://img.shields.io/badge/-Pycharm-%23000000?style=flat-square&logo=Pycharm&logoColor=white)
   ![VS](https://img.shields.io/badge/-Visual%20Studio-%235C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white)
   ### Notion Page
-  https://www.notion.so/TO-LEARN-LIST-a092f55aca854ead88e9a943cb05a114
+  https://www.notion.so/Introduce-eae7569c56b64ff6acf7467fe20bc10f
 </div>
 
 
